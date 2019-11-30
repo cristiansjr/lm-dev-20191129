@@ -1,0 +1,8 @@
+server:
+  port: 90
+
+response-codes:
+  http:
+    success: 200
+    expression-error: 400
+    general-error: 500
